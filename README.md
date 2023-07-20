@@ -6,7 +6,7 @@ Simple Introductionay app. Allowing users to enter infomation like first and las
 
 ### App Walk-though
 
-![CodePath](https://imgur.com/cWwn0sU.gif)
+![CodePath](https://github.com/howie1329/codepath/blob/main/Kapture%202023-07-19%20at%2023.07.30.gif)
 
 ### Required Features
 
