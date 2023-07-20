@@ -6,7 +6,7 @@ Simple Introductionay app. Allowing users to enter infomation like first and las
 
 ### App Walk-though
 
-![](https://imgur.com/a/TlJmer2)
+![](https://imgur.com/a/TlJmer2.gif)
 
 ### Required Features
 
