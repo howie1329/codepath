@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "WGU-MarketingLogo_NATL_RGB_Color_Owl_WGU_NoTag_Stacked_7-2021.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
